@@ -7,4 +7,4 @@ This is how I've learned High Order Functions, Passing Functions, How to play so
 Here is a review of what the site looks like:
 ![alt text](https://phungxuanton.github.io/Personal-Site-1/page1.png)
 
-You can also visit this page here: https://phungxuanton.github.io/Personal-Site-1/
+You can also visit this page here: https://phungxuanton.github.io/Drum-Kit/
